@@ -10,7 +10,7 @@ PRODUCT_PACKAGES += \
     com.android.ims.rcsmanager
 
 # Overlays
-DEVICE_PACKAGE_OVERLAYS += device/google/marlin/overlay-carbon
+#DEVICE_PACKAGE_OVERLAYS += device/google/marlin/overlay-carbon
 
 # Pixel Experience
 PRODUCT_COPY_FILES += \
